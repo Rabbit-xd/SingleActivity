@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Single Activity</string>
+    <string name="btnJoin">Join</string>
+    <string name="subreddit" />
+</resources>
