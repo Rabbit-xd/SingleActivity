@@ -2,4 +2,9 @@
     <string name="app_name">Single Activity</string>
     <string name="btnJoin">Join</string>
     <string name="subreddit" />
+    <string name="share">Share</string>
+    <string name="save_bookmarks">Save</string>
+    <string name="posted_by">Posted by</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

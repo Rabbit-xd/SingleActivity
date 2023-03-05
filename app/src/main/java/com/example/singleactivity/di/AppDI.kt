@@ -1,5 +1,5 @@
 package com.example.singleactivity.di
-
+/**
 import com.example.singleactivity.data.dao.RedditApi
 import dagger.Module
 import dagger.Provides
@@ -25,5 +25,9 @@ object AppDI {
             .addConverterFactory(GsonConverterFactory.create())
             .build()
             .create(RedditApi::class.java)
+    //@Provides
+   //fun loadGlide()
 
 }
+
+ **/
